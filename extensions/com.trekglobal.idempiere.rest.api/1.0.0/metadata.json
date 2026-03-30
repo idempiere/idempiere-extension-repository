@@ -1,0 +1,26 @@
+{
+  "id": "com.trekglobal.idempiere.rest.api",
+  "version": "1.0.0",
+  "idempiereVersion": "12",
+  "releaseDate": "2026-03-27",
+  "name": "iDempiere REST API",
+  "description": "Comprehensive REST API for iDempiere covering models, processes, windows, and workflows with JWT authentication.",
+  "categories": [
+    "API",
+    "Integration"
+  ],
+  "tags": [
+    "rest",
+    "api",
+    "jwt",
+    "json"
+  ],
+  "entityType": "IR",
+  "bundles": [
+    {
+      "symbolicName": "com.trekglobal.idempiere.rest.api",
+      "downloadUrl": "https://jenkins.idempiere.org/job/idempiere-rest/ws/com.trekglobal.idempiere.rest.api/target/com.trekglobal.idempiere.rest.api-1.0.0-SNAPSHOT.jar"
+    }
+  ],
+  "dependencies": []
+}
