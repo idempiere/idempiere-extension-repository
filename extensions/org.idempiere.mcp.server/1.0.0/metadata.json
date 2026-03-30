@@ -1,0 +1,33 @@
+{
+  "id": "org.idempiere.mcp.server",
+  "version": "1.0.0",
+  "idempiereVersion": "13",
+  "releaseDate": "2026-03-29",
+  "name": "iDempiere MCP Server",
+  "description": "Model Context Protocol server for iDempiere. Enables AI assistants to interact with ERP data and processes.",
+  "categories": [
+    "AI",
+    "Integration",
+    "API"
+  ],
+  "tags": [
+    "mcp",
+    "ai",
+    "gemini",
+    "claude",
+    "automation"
+  ],
+  "entityType": "org.idempiere.mcp.server",
+  "bundles": [
+    {
+      "symbolicName": "org.idempiere.mcp.server",
+      "downloadUrl": "https://github.com/hengsin/idempiere-mcp/releases/download/20260329/org.idempiere.mcp.server-1.0.0-SNAPSHOT.jar"
+    }
+  ],
+  "dependencies": [
+    {
+      "id": "com.trekglobal.idempiere.rest.api",
+      "version": "1.0.0"
+    }
+  ]
+}

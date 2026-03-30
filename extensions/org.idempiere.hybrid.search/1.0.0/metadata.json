@@ -1,0 +1,26 @@
+{
+  "id": "org.idempiere.hybrid.search",
+  "version": "1.0.0",
+  "idempiereVersion": "13",
+  "releaseDate": "2026-03-18",
+  "name": "iDempiere Hybrid Search",
+  "description": "iDempiere Hybrid Search is a plugin that enhances iDempiere's search capabilities by combining traditional full-text (lexical) search with modern vector (semantic) search.",
+  "categories": ["search"],
+  "tags": ["search", "embedding"],
+  "entityType": "org.idempiere.hybrid.search",
+  "bundles": [
+    {
+      "symbolicName": "org.idempiere.hybrid.search",
+      "downloadUrl": "https://github.com/hengsin/idempiere-hybrid-search/releases/download/2026-03-18/org.idempiere.hybrid.search-1.0.0-SNAPSHOT.jar",
+      "sha256": "c09ef50d6d1e4169df7abbf42f04d26299a51410223aced74349e12eb8e0cd43"
+    }
+  ],
+  "dependencies": [],
+  "database": [
+	{
+		"id": "postgresql",
+		"version": "17",
+		"extensions": ["vector"]
+	}
+  ]
+}
