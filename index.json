@@ -1,4 +1,80 @@
 {
-  "generatedAt": "2026-03-27T02:55:28.319007Z",
-  "extensions": []
+  "generatedAt": "2026-03-30T07:36:23.758066Z",
+  "extensions": [
+    {
+      "id": "org.idempiere.hybrid.search",
+      "name": "iDempiere Hybrid Search",
+      "description": "iDempiere Hybrid Search is a plugin that enhances iDempiere's search capabilities by combining traditional full-text (lexical) search with modern vector (semantic) search.",
+      "categories": [
+        "search"
+      ],
+      "tags": [
+        "search",
+        "embedding"
+      ],
+      "entityType": "org.idempiere.hybrid.search",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "metadataUrl": "https://github.com/idempiere/idempiere-extension-repository/blob/main/extensions/org.idempiere.hybrid.search/1.0.0/metadata.json"
+        }
+      ],
+      "infoUrl": "https://github.com/idempiere/idempiere-extension-repository/blob/main/extensions/org.idempiere.hybrid.search/info.md",
+      "changeLogUrl": "https://github.com/idempiere/idempiere-extension-repository/blob/main/extensions/org.idempiere.hybrid.search/CHANGELOG.md",
+      "assets": [
+        {
+          "name": "Business Partner Search Column.png",
+          "url": "https://github.com/idempiere/idempiere-extension-repository/blob/main/extensions/org.idempiere.hybrid.search/assets/Business Partner Search Column.png"
+        }
+      ]
+    },
+    {
+      "id": "com.trekglobal.idempiere.rest.api",
+      "name": "iDempiere REST API",
+      "description": "Comprehensive REST API for iDempiere covering models, processes, windows, and workflows with JWT authentication.",
+      "categories": [
+        "API",
+        "Integration"
+      ],
+      "tags": [
+        "rest",
+        "api",
+        "jwt",
+        "json"
+      ],
+      "entityType": "IR",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "metadataUrl": "https://github.com/idempiere/idempiere-extension-repository/blob/main/extensions/com.trekglobal.idempiere.rest.api/1.0.0/metadata.json"
+        }
+      ],
+      "infoUrl": "https://github.com/idempiere/idempiere-extension-repository/blob/main/extensions/com.trekglobal.idempiere.rest.api/info.md"
+    },
+    {
+      "id": "org.idempiere.mcp.server",
+      "name": "iDempiere MCP Server",
+      "description": "Model Context Protocol server for iDempiere. Enables AI assistants to interact with ERP data and processes.",
+      "categories": [
+        "AI",
+        "Integration",
+        "API"
+      ],
+      "tags": [
+        "mcp",
+        "ai",
+        "gemini",
+        "claude",
+        "automation"
+      ],
+      "entityType": "org.idempiere.mcp.server",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "metadataUrl": "https://github.com/idempiere/idempiere-extension-repository/blob/main/extensions/org.idempiere.mcp.server/1.0.0/metadata.json"
+        }
+      ],
+      "infoUrl": "https://github.com/idempiere/idempiere-extension-repository/blob/main/extensions/org.idempiere.mcp.server/info.md"
+    }
+  ]
 }
