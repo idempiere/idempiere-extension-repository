@@ -34,5 +34,5 @@
 ## 👤 Author / Support
 
 * **Developer:** iDempiere Community
-* **Source Code:** [https://github.com/idempiere/idempiere/tree/master/org.idempiere.webservices](https://github.com/idempiere/idempiere/tree/master/org.idempiere.webservices)
+* **Source Code:** [https://github.com/idempiere/idempiere-soap-webservices](https://github.com/idempiere/idempiere-soap-webservices)
 * **Documentation:** [iDempiere Wiki - Web Services](https://wiki.idempiere.org/en/Web_services)
