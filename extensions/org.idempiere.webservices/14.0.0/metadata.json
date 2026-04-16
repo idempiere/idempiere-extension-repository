@@ -19,11 +19,13 @@
   "bundles": [
     {
       "symbolicName": "org.idempiere.webservices.resources",
-      "downloadUrl": "https://github.com/idempiere/idempiere-soap-webservices/releases/download/v14/org.idempiere.webservices.resources-14.0.0-SNAPSHOT.jar"
+      "downloadUrl": "https://github.com/idempiere/idempiere-soap-webservices/releases/download/v14/org.idempiere.webservices.resources-14.0.0-SNAPSHOT.jar",
+      "sha256": "dfd64e468cfc0750ce04258ad8c63fe8b5dca7a7b6386d79f8d41f0151214c6c"
     },
     {
       "symbolicName": "org.idempiere.webservices",
-      "downloadUrl": "https://github.com/idempiere/idempiere-soap-webservices/releases/download/v14/org.idempiere.webservices-14.0.0-SNAPSHOT.jar"
+      "downloadUrl": "https://github.com/idempiere/idempiere-soap-webservices/releases/download/v14/org.idempiere.webservices-14.0.0-SNAPSHOT.jar",
+      "sha256": "85e69cfdfa0fb97fd0f199b701ddcaa71d38e1598fe91a53f6b789375baeba94"
     }
   ],
   "dependencies": []
