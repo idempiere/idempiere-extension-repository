@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-10T14:33:15.337227Z",
+  "generatedAt": "2026-04-16T14:14:05.235192Z",
   "extensions": [
     {
       "id": "com.trekglobal.idempiere.rest.api",
@@ -23,6 +23,29 @@
         }
       ],
       "infoUrl": "https://github.com/idempiere/idempiere-extension-repository/blob/main/extensions/com.trekglobal.idempiere.rest.api/info.md"
+    },
+    {
+      "id": "org.idempiere.webservices",
+      "name": "iDempiere SOAP Web Services",
+      "description": "SOAP/XML Web Services (ADInterface) for iDempiere including CRUD, process execution, and workflow integration.",
+      "categories": [
+        "API",
+        "Integration"
+      ],
+      "tags": [
+        "soap",
+        "webservices",
+        "xml",
+        "adinterface"
+      ],
+      "entityType": "EXT",
+      "versions": [
+        {
+          "version": "14.0.0",
+          "metadataUrl": "https://github.com/idempiere/idempiere-extension-repository/blob/main/extensions/org.idempiere.webservices/14.0.0/metadata.json"
+        }
+      ],
+      "infoUrl": "https://github.com/idempiere/idempiere-extension-repository/blob/main/extensions/org.idempiere.webservices/info.md"
     }
   ]
 }
