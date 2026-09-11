@@ -1,0 +1,25 @@
+{
+  "id": "de.bxservice.docstatusvalidator",
+  "version": "1.0.1",
+  "idempiereVersion": "14",
+  "releaseDate": "2026-09-11",
+  "name": "Document Status Validator",
+  "description": "Define SQL conditions that block document status changes and show the user an explanatory message.",
+  "categories": [
+    "Document Management",
+    "Validation"
+  ],
+  "tags": [
+    "docstatus",
+    "validation",
+    "workflow",
+    "sql"
+  ],
+  "entityType": "BAY",
+  "bundles": [
+    {
+      "symbolicName": "de.bxservice.docstatusvalidator"
+    }
+  ],
+  "dependencies": []
+}
