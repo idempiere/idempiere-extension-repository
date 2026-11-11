@@ -1,0 +1,27 @@
+{
+  "id": "id.rekaestudigital.idempiere.log-viewer",
+  "version": "1.0.1",
+  "idempiereVersion": "12",
+  "releaseDate": "2026-10-24",
+  "name": "iDempiere Log Viewer",
+  "description": "Web-based viewer for iDempiere server trace logs at /log-viewer. You can view, download, rotate and delete log files.",
+  "infoUrl": "https://github.com/idempiere/idempiere-extension-repository/blob/main/extensions/id.rekaestudigital.idempiere.log-viewer/info.md",
+  "categories": [
+    "Administration",
+    "Monitoring"
+  ],
+  "tags": [
+    "log",
+    "trace",
+    "monitoring",
+    "server"
+  ],
+  "bundles": [
+    {
+      "symbolicName": "id.rekaestudigital.idempiere.log-viewer",
+      "downloadUrl": "https://github.com/uthadehikaru/idempiere-log-viewer/releases/download/1.0.1/id.rekaestudigital.idempiere.log-viewer_1.0.1.jar",
+      "sha256": "eca680ee33a4886b9d0d07cb7e5b3ecb3323c6ddbbb6cc08d6704d8555d30562"
+    }
+  ],
+  "dependencies": []
+}
